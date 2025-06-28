@@ -66,7 +66,7 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 
 ## Grading Rubric
 
-| Criteria                   | Team Member |
+| Criteria                   | Weight |
 |----------------------------|--------|
 | Theoretical Depth & Accuracy| 30%    |
 | Code Functionality & Quality| 50%    |
@@ -85,12 +85,12 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 
 ## Team Contributions 
 
-| Criteria                   | Weight |
+| Criteria                   | Team Memeber |
 |----------------------------|--------|
-| Theoretical Depth & Accuracy  30%    |        |
-| Code Functionality & Quality  50%    |    
+| Theoretical Depth & Accuracy     |        |
+| Code Functionality & Quality     |        |
 | Task 1: AI-Powered Code Completion   | Thobeka Jali|
 | Task 2: Automated Testing with AI    |        |
 | Task 3: Predictive Analytics for Resource Allocation |        |  
-| Ethical Reflection          | 10%    |
-| Creativity & Presentation   | 10%    |
+| Ethical Reflection          |   |
+| Creativity & Presentation   |   |
