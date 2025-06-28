@@ -66,7 +66,7 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 
 ## Grading Rubric
 
-| Criteria                   | Weight |
+| Criteria                   | Team Member |
 |----------------------------|--------|
 | Theoretical Depth & Accuracy| 30%    |
 | Code Functionality & Quality| 50%    |
