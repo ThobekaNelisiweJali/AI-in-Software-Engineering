@@ -82,3 +82,15 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 - Start early and iterate frequently — AI tools improve with iteration! 🔄
 
 ---
+
+## Team Contributions 
+
+| Criteria                   | Weight |
+|----------------------------|--------|
+| Theoretical Depth & Accuracy  30%    |        |
+| Code Functionality & Quality  50%    |    
+| Task 1: AI-Powered Code Completion   | Thobeka Jali|
+| Task 2: Automated Testing with AI    |        |
+| Task 3: Predictive Analytics for Resource Allocation |        |  
+| Ethical Reflection          | 10%    |
+| Creativity & Presentation   | 10%    |
