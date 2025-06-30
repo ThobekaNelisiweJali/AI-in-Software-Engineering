@@ -87,7 +87,7 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 
 | Criteria                   | Team Memeber |
 |----------------------------|--------|
-| Theoretical Depth & Accuracy     |        |
+| Theoretical Depth & Accuracy     | Jean Guya       |
 | Code Functionality & Quality     |        |
 | Task 1: AI-Powered Code Completion   | Thobeka Jali|
 | Task 2: Automated Testing with AI    |        |
