@@ -90,7 +90,7 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 | Theoretical Depth & Accuracy     | Jean Guya       |
 | Code Functionality & Quality     |        |
 | Task 1: AI-Powered Code Completion   | Thobeka Jali|
-| Task 2: Automated Testing with AI    |        |
+| Task 2: Automated Testing with AI    | Sophia Nakhanu       |
 | Task 3: Predictive Analytics for Resource Allocation |        |  
 | Ethical Reflection          |   |
 | Creativity & Presentation   |   |
