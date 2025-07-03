@@ -93,4 +93,4 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 | Task 2: Automated Testing with AI    | Sophia Nakhanu       |
 | Task 3: Predictive Analytics for Resource Allocation |        |  
 | Ethical Reflection          |   |
-| Creativity & Presentation   |   |
+| Bonus Task    |   |
