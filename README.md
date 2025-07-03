@@ -91,6 +91,6 @@ This assignment explores the integration of Artificial Intelligence (AI) in soft
 | Code Functionality & Quality     |        |
 | Task 1: AI-Powered Code Completion   | Thobeka Jali|
 | Task 2: Automated Testing with AI    | Sophia Nakhanu       |
-| Task 3: Predictive Analytics for Resource Allocation |        |  
-| Ethical Reflection          |   |
-| Bonus Task    |   |
+| Task 3: Predictive Analytics for Resource Allocation |  Thobeka Jali      |  
+| Ethical Reflection          | Thobeka Jali  |
+| Bonus Task    | Thobeka Jali   |
